@@ -9,6 +9,6 @@ body {
   background-image: url("Island.jpg");
   background-size: cover;
 }
-img {
-  opacity: 0.2;
-}
+ img{
+    opacity: 0.2;
+ }
