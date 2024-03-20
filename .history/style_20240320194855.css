@@ -1,17 +1,17 @@
 .header {
-  color: #a2d2ff;
+  color: a2d2ff;
   text-align: center;
 }
 
 h1 {
-  color:#ffafcc;
+  color: purple;
   font-size: large;
   text-align: center;
 }
 p {
-  color:#cdb4db ;
+  color: darkcyan;
 }
 
 nav {
-  color:#bde0fe;
+  color: cadetblue;
 }
