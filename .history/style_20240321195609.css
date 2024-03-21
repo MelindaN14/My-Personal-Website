@@ -15,8 +15,8 @@ p {
 nav {
   color:#bde0fe;
 }
-body.contact {
-  background-image:url('download.jpeg');
+body {
+  background-image:url('white-bookshelf.jpeg');
   padding: 2rem;
  display: flex;
  flex-direction: column;
