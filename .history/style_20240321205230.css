@@ -17,11 +17,6 @@
 /* Hover */
 .navbar a:hover {
   background: #a2d2ff;
-  color: black;
-}
-/* Main Content?? */
-.main {
-  margin-top: 30px; /* Add a top margin to avoid content overlay? */
 }
 .header {
   color: #a2d2ff;

@@ -20,9 +20,7 @@
   color: black;
 }
 /* Main Content?? */
-.main {
-  margin-top: 30px; /* Add a top margin to avoid content overlay? */
-}
+.main {}
 .header {
   color: #a2d2ff;
   text-align: center;
