@@ -1,0 +1,21 @@
+.header {
+     color: palevioletred;
+     font-style: "Brush Script MT", cursive;
+     text-align: center;
+}
+
+h1 {
+    color: purple;
+    font-size: large;
+}
+p{
+color:darkcyan
+width: 300px;
+}
+
+nav{
+    color: cadetblue;
+}
+body{
+
+}
