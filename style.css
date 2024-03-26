@@ -30,16 +30,31 @@
 
 h1 {
   color: #ffafcc;
-  font-size: large;
+  font-style: italic;
+  font-size:larger;
   text-align: center;
 }
 h2{
-    color:#1e609e;
+    color:#a11491;
+    font-weight: 500px;
+    text-align: center;
+    text-decoration: underline;
 }
 p {
   color: #cdb4db;
 }
 
+nav {
+  color: #bde0fe;
+}
+/*body {
+  background-image:url('floral.jpeg');
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}*/
 
 /* body { */
   /* background-image:url('floral.jpeg'); */
