@@ -65,9 +65,9 @@ nav {
 /* } */
 
 /* body { */
-  /* background-image: url("Island.jpg"); */
-  /* background-size: cover; */
-/* } */
-/* img { */
+  background-image: url("Island.jpg");
+  background-size: cover;
+}
+img {
   /* opacity: 0.2; */
 /* } */
