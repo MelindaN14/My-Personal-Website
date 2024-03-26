@@ -21,10 +21,10 @@
 }
 /* Main Content?? */
 .main {
-  margin-top: 30px; /* Add a top margin to avoid content overlay? */
+  margin-top:30px; /* Add a top margin to avoid content overlay
 }
 .header {
-  color: #7fb6ea;
+  color: #a2d2ff;
   text-align: center;
 }
 
@@ -41,7 +41,7 @@ nav {
   color: #bde0fe;
 }
 body {
-  background-image:url('floral.jpeg');
+  background-image: url("download.jpeg");
   padding: 2rem;
   display: flex;
   flex-direction: column;

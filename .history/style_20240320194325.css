@@ -1,0 +1,17 @@
+.header {
+  color: palevioletred;
+  text-align: center;
+}
+
+h1 {
+  color: purple;
+  font-size: large;
+  text-align: center;
+}
+p {
+  color: darkcyan;
+}
+
+nav {
+  color: cadetblue;
+}
