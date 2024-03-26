@@ -1,0 +1,53 @@
+/* Nav Bar */
+.navbar {
+  overflow: hidden;
+  background-color: #cdb4db;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+/* Links */
+.navbar a {
+  float: left;
+  display: block;
+  color: #a11491;
+  text-align: center;
+  padding: 14px 16px;
+}
+/* Hover */
+.navbar a:hover {
+  background: #a2d2ff;
+  color: black;
+}
+/* Main Content?? */
+.main {
+  margin-top: 30px; /* Add a top margin to avoid content overlay? */
+}
+.header {
+  color: #7fb6ea;
+  text-align: center;
+}
+
+h1 {
+  color: #ffafcc;
+  font-size: large;
+  text-align: center;
+}
+h2{
+    color:aquamarine
+}
+p {
+  color: #cdb4db;
+}
+
+nav {
+  color: #bde0fe;
+}
+body {
+  background-image:url('floral.jpeg');
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
