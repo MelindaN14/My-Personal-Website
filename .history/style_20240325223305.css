@@ -33,9 +33,7 @@ h1 {
   font-size: large;
   text-align: center;
 }
-h2{
-    color:#1e609e;
-}
+
 p {
   color: #cdb4db;
 }
@@ -43,11 +41,11 @@ p {
 nav {
   color: #bde0fe;
 }
-/* body { */
-  /* background-image:url('floral.jpeg'); */
-  /* padding: 2rem; */
-  /* display: flex; */
-  /* flex-direction: column; */
-  /* align-items: center; */
-  /* justify-content: center; */
-/* } */
+body {
+  background-image:url('floral.jpeg');
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
