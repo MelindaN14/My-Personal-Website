@@ -1,0 +1,14 @@
+h1 {
+  color: blueviolet;
+}
+p {
+  color: magenta;
+}
+
+body {
+  background-image: url("Island.jpg");
+  background-size: cover;
+}
+ img{
+    opacity: 0.5;
+ }
